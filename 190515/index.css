@@ -36,3 +36,12 @@ background-repeat: repeat-x;
   float:right;
   padding:0 1em 1em 0;
 }
+
+.introduction{
+  float:left;
+}
+
+.under{
+  border-bottom: dashed 2px #87CEFA;
+}
+

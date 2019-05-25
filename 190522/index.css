@@ -46,5 +46,12 @@ body{
 
 .white{
   color:#ffffff;
-  font-size: 120%;
+  font-size: 70%;
+}
+
+.nav li{
+  display:inline;
+  list-style-type:none;
+  padding-right:30px;
+
 }

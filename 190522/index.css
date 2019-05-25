@@ -11,6 +11,11 @@ body{
   max-width: 700px;
 }
 
+.wrapper2{
+  margin:0 auto 0 auto
+  max-width: 1400px;
+}
+
 .haiiro{
   color: #bdbdbd;
 }
@@ -33,4 +38,13 @@ body{
 .haikei{
   background-color: #bdbdbd
 
+}
+
+.red{
+  background-color: #ff0000
+}
+
+.white{
+  color:#ffffff;
+  font-size: 120%;
 }

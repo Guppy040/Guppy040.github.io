@@ -2,7 +2,6 @@
 
 
 body{
-  margin: 0;
 
 
 }
@@ -14,4 +13,14 @@ body{
 
 .haiiro{
   color: #bdbdbd;
+}
+
+.kazyougaki{
+  color: #0080ff
+}
+
+.under{
+  border-bottom: solid 3px #6e6e6e;
+
+
 }

@@ -47,6 +47,11 @@ body{
 .white{
   color:#ffffff;
   font-size: 130%;
+  font-weight: bold;;
+}
+
+.black{
+  -webkit-text-stroke: 1px #000;
 }
 
 .nav li{
@@ -56,6 +61,17 @@ body{
 
 }
 
-black{
+.width{
 
+}
+
+.inner{
+  width:1130px;
+}
+
+.akeru{
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  margin-bottom:15px;
 }

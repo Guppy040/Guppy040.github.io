@@ -79,3 +79,9 @@ body{
 .akeru2{
   margin-top:20px;
 }
+
+.jumbotron { background:url(images/gazou1.jpg);
+  position: relative;
+  height: 50vh;
+  min-height: 300px;
+}

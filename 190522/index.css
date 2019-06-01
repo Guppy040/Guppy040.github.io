@@ -72,6 +72,10 @@ body{
 .akeru{
   margin-left:auto;
   margin-right:auto;
-  margin-top:20px;
+  margin-top:32px;
   margin-bottom:15px;
+}
+
+.akeru2{
+  margin-top:20px;
 }

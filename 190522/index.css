@@ -85,3 +85,19 @@ body{
   height: 25vh;
   min-height: 350px;
 }
+
+.margin1{
+  margin-bottom:500px;
+}
+
+.margin2{
+  margin-bottom:100px;
+}
+
+.margin3{
+  margin-top:100px;
+}
+
+.margin4{
+  margin-bottom:20px;
+}

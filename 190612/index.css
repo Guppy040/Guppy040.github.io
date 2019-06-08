@@ -36,7 +36,7 @@
 }
 
 .menu-inner{
-  margin:0 0 20px 200px;
+  margin:0 0 20px 100px;
 }
 
 .article-header{
@@ -61,4 +61,8 @@
 .introduction2{
   margin:0 0 80px 120px;
   color:#808080;
+}
+
+.introduction3{
+  margin:0 0 0 30px;
 }

@@ -1,7 +1,6 @@
 @charset "UTF-8";
 
 
-
 .jumbotron { background:url(images/gazou1.png);
   position: relative;
   height: 60vh;
@@ -49,3 +48,17 @@
   margin:0 0 80px 0 ;
 }
 
+.introduction-image{
+  margin:150px 0 20px 50px
+}
+
+
+.introduction{
+  margin:50px 0 20px 65px;
+  color:#808080;
+}
+
+.introduction2{
+  margin:0 0 80px 120px;
+  color:#808080;
+}

@@ -49,22 +49,22 @@
 }
 
 .introduction-image{
-  margin:150px 0 20px 50px
+  margin:150px 0 20px 0;
 }
 
 
 .introduction{
-  margin:50px 0 20px 65px;
+  margin:50px 0 20px 0;
   color:#808080;
 }
 
 .introduction2{
-  margin:0 0 80px 120px;
+  margin:0 0 80px 0;
   color:#808080;
 }
 
 .introduction3{
-  margin:0 0 0 30px;
+  margin:0 0 70px 0;
 }
 
 .article1{

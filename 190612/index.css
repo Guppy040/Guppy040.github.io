@@ -13,6 +13,14 @@ body {
   height: 60vh;
   min-height: 350px;
 }
+@media (min-width:768px) {
+  .jumbotron{
+    max-width:100%;
+    height:auto;
+  }
+  }
+
+
 
 
 
@@ -27,7 +35,7 @@ body {
 }
 
 .irasutoya{
-  margin-left:200px;
+  margin-left:80px;
 }
 
 .relative{
@@ -88,9 +96,23 @@ body {
   border-bottom: solid 2px #C0C0C0;
 }
 
+@media (max-width:768px) {
+  .article1{
+    margin:0;
+    border-bottom: solid 2px #C0C0C0;
+  }
+}
+
+
 
 .article2{
   margin:80px;
+}
+
+@media (max-width:768px) {
+  .article2{
+    margin:0;
+  }
 }
 
 .article3{
@@ -99,6 +121,8 @@ body {
   border-bottom: solid 2px #C0C0C0;
 
 }
+
+
 
 
 

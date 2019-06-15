@@ -200,9 +200,9 @@ body {
   margin-top:10px;
 }
 
-@media (min-width:1200px) {
+@media (max-width:768px) {
   .page{
-   margin-top:10px;
+    margin:0;
   }
 }
 

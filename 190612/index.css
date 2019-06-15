@@ -72,14 +72,20 @@
 }
 
 .article1{
+  margin:80px;
+  border-bottom: solid 2px #C0C0C0;
+}
+
+
+.article2{
+  margin:80px;
+}
+
+.article3{
   margin-top:80px;
   margin-bottom:80px;
   border-bottom: solid 2px #C0C0C0;
 
-}
-
-.article2{
-  margin:80px;
 }
 
 
@@ -90,5 +96,10 @@
 
 .page{
   margin-left:500px;
-  margin-top:80px;
+  margin-top:10px;
+}
+
+.tyosakukenn{
+  color:#C0C0C0;
+  margin-left:1100px;
 }

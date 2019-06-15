@@ -16,8 +16,8 @@ body {
 @media (max-width:768px) {
   .jumbotron{
     position: relative;
-    height:50px;
-    min-height:50px
+    height: 200px;
+    min-height:200px
   }
   }
 
@@ -41,7 +41,7 @@ body {
 
 @media (max-width:768px) {
   .irasutoya{
-    margin:30px 0 30px 0 ;
+    margin:30px 0 30px 20px ;
   }
 }
 

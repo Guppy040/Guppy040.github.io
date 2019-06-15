@@ -72,10 +72,23 @@
 }
 
 .article1{
-  margin:80px;
+  margin-top:80px;
+  margin-bottom:80px;
   border-bottom: solid 2px #C0C0C0;
+
 }
+
+.article2{
+  margin:80px;
+}
+
+
 
 .koukoku{
   margin:0 0 50px 0;
+}
+
+.page{
+  margin-left:500px;
+  margin-top:80px;
 }

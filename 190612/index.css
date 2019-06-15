@@ -39,11 +39,25 @@ body {
   margin-left:80px;
 }
 
+@media (max-width:768px) {
+  .irasutoya{
+    margin:30px 0 30px 0 ;
+  }
+}
+
 .relative{
   position: relative;
   top: 10px;
   left: 150px;
 
+}
+
+@media (max-width:768px) {
+  .relative{
+    position: relative;
+    top: 10px;
+    left: 20px;
+  }
 }
 
 .header-text{
@@ -60,13 +74,21 @@ body {
   margin:0 0 20px 100px;
 }
 
+@media (max-width:768px) {
+  .menu-inner{
+    margin:0
+  }
+}
+
+
+
 .article-header{
   margin:50px 0 30px 80px ;
 }
 
 @media (max-width:768px) {
   .article-header{
-    margin:50px 0 30px 0px ;
+    margin:50px 0 30px 0 ;
   }
 }
 
@@ -75,8 +97,22 @@ body {
   margin:0 0 80px 80px ;
 }
 
+@media (max-width:768px) {
+  .time{
+    margin:0;
+  }
+}
+
+
+
 .introduction-image{
   margin:150px 0 20px 0;
+}
+
+@media (max-width:768px) {
+  .introduction-image{
+    margin:150px 0px 20px 75px;
+  }
 }
 
 
@@ -85,9 +121,24 @@ body {
   color:#808080;
 }
 
+
+@media (max-width:768px) {
+  .introduction{
+    margin:50px 0 20px 90px;
+  }
+}
+
 .introduction2{
   margin:0 0 80px 0;
   color:#808080;
+}
+
+
+@media (max-width:768px) {
+  .introduction2{
+    margin:0 0 30px 140px;
+    color:#808080;
+  }
 }
 
 .introduction3{
@@ -136,6 +187,13 @@ body {
 .koukoku{
   margin:0 0 50px 0;
 }
+
+@media (max-width:768px) {
+  .koukoku{
+    margin:0 0 50px 75px;
+  }
+}
+
 
 .page{
   margin-left:500px;

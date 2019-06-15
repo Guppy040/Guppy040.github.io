@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+body {
+
+}
 
 .jumbotron { background:url(images/gazou1.png);
   position: relative;
@@ -18,7 +21,7 @@
 }
 
 .irasutoya{
-  margin-left:300px;
+  margin-left:200px;
 }
 
 .relative{
@@ -102,7 +105,21 @@
   margin-top:10px;
 }
 
+@media (min-width:1200px) {
+  .page{
+   margin-top:10px;
+  }
+}
+
 .tyosakukenn{
   color:#C0C0C0;
-  margin-left:900px;
+  margin-bottom: 20px;
 }
+
+@media (min-width:1200px) {
+  .tyosakukenn{
+    color:#C0C0C0;
+    margin-left:900px;
+    margin-bottom:20px;
+  }
+  }

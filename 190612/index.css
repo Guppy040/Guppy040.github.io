@@ -4,6 +4,10 @@ body {
 
 }
 
+.wrapper{
+  overflow-x: hidden;
+}
+
 .jumbotron { background:url(images/gazou1.png);
   position: relative;
   height: 60vh;

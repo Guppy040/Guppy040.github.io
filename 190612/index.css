@@ -7,6 +7,7 @@
   min-height: 350px;
 }
 
+
 .header{
   background-color:#00c878;
 }
@@ -16,7 +17,9 @@
   height:60px;
 }
 
-
+.irasutoya{
+  margin-left:300px;
+}
 
 .relative{
   position: relative;
@@ -101,5 +104,5 @@
 
 .tyosakukenn{
   color:#C0C0C0;
-  margin-left:1100px;
+  margin-left:900px;
 }

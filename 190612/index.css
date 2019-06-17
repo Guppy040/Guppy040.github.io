@@ -4,6 +4,41 @@ body {
 
 }
 
+.carousel-item img{
+  height: 200px;
+  object-fit:fill;
+  object-position: bottom;
+}
+
+
+@media (min-width:768px) {
+  .carousel-item img{
+    height:350px;
+    object-fit:fill;
+    object-position: bottom;
+  }
+}
+
+@media (min-width:992px) {
+  .carousel-item img{
+    height:400px;
+    object-fit:fill;
+    object-position: bottom;
+  }
+}
+
+@media (min-width:1200px) {
+  .carousel-item img{
+    height:450px;
+    object-fit:fill;
+    object-position: bottom;
+  }
+}
+
+
+
+
+
 .wrapper{
   overflow-x: hidden;
 }

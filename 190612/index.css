@@ -144,11 +144,12 @@ body {
   margin:150px 0 20px 0;
 }
 
-@media (max-width:768px) {
+@media (max-width:1200px) {
   .introduction-image{
-    margin:150px 0 20px 75px;
+    text-align:center;
   }
 }
+
 
 
 .introduction{
@@ -157,22 +158,9 @@ body {
 }
 
 
-@media (max-width:768px) {
+@media (max-width:1200px) {
   .introduction{
-    margin:50px 0 20px 90px;
-  }
-}
-
-.introduction2{
-  margin:0 0 80px 0;
-  color:#808080;
-}
-
-
-@media (max-width:768px) {
-  .introduction2{
-    margin:0 0 30px 140px;
-    color:#808080;
+    text-align:center;
   }
 }
 
@@ -223,11 +211,13 @@ body {
   margin:0 0 50px 0;
 }
 
-@media (max-width:768px) {
+@media (max-width:1200px) {
   .koukoku{
-    margin:0 0 50px 75px;
+    text-align:center;
   }
 }
+
+
 
 
 .page{

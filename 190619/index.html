@@ -11,15 +11,50 @@
 
 <main>
   <div class="cd-fixed-bg cd-bg-1">
-    <h1>見出し</h1>
+    <h1 class = title>Summer is coming.</h1>
   </div>
 
+
+
+
+
+  <!--ココからコンテンツ-->
+  <div class="container">
   <div class="cd-scrolling-bg cd-color-1">
     <div class="cd-container">
+      <div class ="margin">
+
+        <!--テスト-->
+        <header class="gloval__header">
+          <h1><a href=""><img src="images/logo.png" alt="ロゴ画像が入ります。"></a></h1>
+          <nav class="gloval__nav">
+            <div class="gloval__nav--switch">
+              <span></span>
+            </div>
+            <ul class="gloval__nav--list">
+              <li><a href="">Home</a></li>
+              <li><a href="">Blog</a></li>
+              <li><a href="">About</a></li>
+              <li><a href="">Contact</a></li>
+            </ul>
+          </nav>
+        </header>
+        <main>
+          <div class="main__wrapper">
+            <p>メインコンテンツ部分</p>
+          </div>
+        </main>
+        <footer class="gloval__footer">
+          <small>Copyright</small>
+        </footer>
+
+
+
       <p>
         コンテンツ
       </p>
     </div>
+  </div>
   </div>
 
   <div class="cd-fixed-bg cd-bg-2">
@@ -33,12 +68,9 @@
       </p>
     </div>
   </div>
-</main>
+  </div>
 
-<!--ココからコンテンツ-->
-<div class="container">
 
-</div>
 
 
 
@@ -48,5 +80,35 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 
+<script>
+  $(function(){
+  var glovalNav = $('.gloval__nav');　//　グローバルナビゲーションのセレクタ
+  var navHeight = glovalNav.outerHeight(true); //　ナビゲーションのheight(marginやpadding,box-shadowも含む)
+  var navOffset = glovalNav.offset().top; //　ブラウザの一番上からナビゲーションまでの位置
+
+  // スクロールした時
+  $(window).scroll(function () {
+  // スクロールがナビゲーション位置に来たら
+  if ($(this).scrollTop() > navOffset) {
+  // ナビゲーションをfixedさせる
+  glovalNav.css({
+  'position':'fixed',
+  'top':0,
+  'width':'100%',
+  });
+  // ここは重要な部分で、fixedするとその分高さがなくなるので、margin-topを高さ分つけてあげます。
+  $('.main__wrapper').css('margin-top',navHeight);
+  } else {
+  // ifのtrueでない場合、つまり、ナビゲーション位置に来ていない時はrelativeで元に戻す。staticでも可
+  glovalNav.css('position','relative');
+  $('.main__wrapper').css('margin-top','auto');
+  }
+  });
+  });
+  </script>
+
+</main>
 </body>
+
+
 </html>

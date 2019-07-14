@@ -78,11 +78,143 @@ body, html, main {
 .title1{
   color:blue;
   font-family: cursive;
+  margin-bottom: 80px;
+  margin-top: 50px;
 }
 
+.title2{
+  color: blue;
+  font-family: cursive;
+  margin-top: 100px;
+}
+
+.title3{
+  color:blue;
+  font-family: cursive;
+  margin-top: 150px;
+  margin-left: 460px;
+  margin-bottom: 0px;
+}
+
+.title4{
+  color:deeppink;
+  font-family: cursive;
+  position: relative;
+  top: 150px;
+  left: 650px;
+}
+
+.title5{
+  position: relative;
+  top: 210px;
+  left: 670px;
+}
+
+.title6{
+  color:blue;
+  font-family: cursive;
+  position: relative;
+  top: 80px;
+  left: 40px;
+}
+
+.title9{
+  position: relative;
+  top: 132px;
+  left: 60px;
+}
+
+.title7{
+  color:orangered;
+  font-family: cursive;
+  position: relative;
+  top: 30px;
+  left: 650px;
+}
+
+.title8{
+  position: relative;
+  top: 80px;
+  left: 650px;
+}
+
+.title11{
+  color:blue;
+  font-family: cursive;
+  position: relative;
+  top: 0;
+  left: 40px;
+}
+
+.title10{
+  position: relative;
+  top: 52px;
+  left: 60px;
+}
+
+.images1{
+  margin-bottom: 100px;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+
+}
 
 .button1{
   width: 300px;
   margin-left: 400px;
 }
+
+.button2{
+  width: 300px;
+}
+
+.uturikawari{
+  height: 400px;
+  width:500px;
+  margin:auto;
+  object-fit:fill;
+  object-position: bottom;
+  position: relative;
+  bottom: 125px;
+  right: 300px;
+
+}
+
+.uturikawari2{
+  height: 400px;
+  width:500px;
+  margin:auto;
+  object-fit:fill;
+  object-position: bottom;
+  position: relative;
+  bottom: 200px;
+  left: 290px;
+
+}
+
+.uturikawari3{
+  height: 400px;
+  width:500px;
+  margin:auto;
+  object-fit:fill;
+  object-position: bottom;
+  position: relative;
+  bottom: 250px;
+  right:300px;
+}
+
+.uturikawari4{
+  height: 400px;
+  width:500px;
+  margin:auto;
+  object-fit:fill;
+  object-position: bottom;
+  position: relative;
+  bottom: 280px;
+  left: 290px;
+}
+
+
 

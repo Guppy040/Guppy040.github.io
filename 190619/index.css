@@ -20,6 +20,11 @@ body{
   background: #fff;
 }
 
+.position{
+  z-index : 100;
+}
+
+
 body, html, main {
   /* important */
   height: 100%;
@@ -39,12 +44,6 @@ body, html, main {
 .cd-fixed-bg.cd-bg-2 {
   background-image: url("images/gazou2.jpg");
 }
-.cd-fixed-bg.cd-bg-3 {
-  background-image: url("../img/cd-background-3.jpg");
-}
-.cd-fixed-bg.cd-bg-4 {
-  background-image: url("../img/cd-background-4.jpg");
-}
 
 .cd-scrolling-bg {
   min-height: 100%;
@@ -61,32 +60,64 @@ body, html, main {
 
 #nav {
   list-style: none;
+  background-color:deepskyblue;
+  margin-top: 0;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 #nav li {
   width: 165px;
-  height: 30px;
+  height: 40px;
   text-align: -webkit-center;
-  background-color:deepskyblue;
   display: inline-block;
 }
 
 #nav li a {
   text-decoration: none;
+  font-family: cursive;
   color: #fff;
   font-weight: bold;
+  font-size: 25px;
+  margin-right: 100px;
+}
+
+.over{
+  display: flex;
+  justify-content: center;
+}
+.over li a {
+  color: #fff;
+  background: deepskyblue;
+}
+.over li a:hover {
+  opacity: 0.7;
 }
 
 .NewPhoto_title{
   color:blue;
   font-family: cursive;
-  margin-bottom: 80px;
-  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-top: 100px;
 }
 
 .new_contents{
   margin-bottom : 100px;
   margin-left : 30px;
+}
+
+.imgWrap {
+  overflow: hidden;	/*拡大時にはみ出た部分を隠す*/
+  width: 320px;	/*画像の幅*/
+  height: 180px;	/*画像の高さ*/
+}
+.imgWrap img {
+  display: block;
+  transition-duration: 0.3s;	/*変化に掛かる時間*/
+}
+.imgWrap img:hover {
+  transform: scale(1.1);	/*画像の拡大率*/
+  transition-duration: 0.3s;	/*変化に掛かる時間*/
 }
 
 .title2{
@@ -100,21 +131,20 @@ body, html, main {
   font-family: cursive;
   margin-top: 150px;
   margin-left: 460px;
-  margin-bottom: 0;
+  margin-bottom: 100px;
 }
 
 .spring_contents{
   color:deeppink;
   font-family: cursive;
   position: relative;
-  top: 150px;
-  left: 650px;
+  margin-left: 70px;
 }
 
 .spring_button{
   position: relative;
-  top: 210px;
-  left: 670px;
+  margin-left: 90px;
+  margin-top: 60px;
 }
 
 .uturikawari_spring{
@@ -124,22 +154,21 @@ body, html, main {
   object-fit:fill;
   object-position: bottom;
   position: relative;
-  bottom: 125px;
-  right: 300px;
 }
 
 .summer_contents{
   color:blue;
   font-family: cursive;
   position: relative;
-  top: 80px;
-  left: 40px;
+  margin-top: 200px;
+  margin-left: 100px;
+
 }
 
 .summer_button{
   position: relative;
-  top: 132px;
-  left: 60px;
+  margin-top: 60px;
+  margin-left: 120px;
 }
 
 .uturikawari_summer{
@@ -149,16 +178,15 @@ body, html, main {
   object-fit:fill;
   object-position: bottom;
   position: relative;
-  bottom: 200px;
-  left: 290px;
+  margin-top: 200px;
 }
 
 .fall_contents{
   color:orangered;
   font-family: cursive;
   position: relative;
-  top: 30px;
-  left: 650px;
+  margin-left: 70px;
+  margin-top: 200px;
 }
 
 .uturikawari_fall{
@@ -168,28 +196,27 @@ body, html, main {
   object-fit:fill;
   object-position: bottom;
   position: relative;
-  bottom: 250px;
-  right:300px;
+  margin-top: 200px;
 }
 
 .fall_button{
   position: relative;
-  top: 80px;
-  left: 650px;
+  margin-left: 90px;
+  margin-top: 60px;
 }
 
 .winter_contents{
   color:deepskyblue;
   font-family: cursive;
   position: relative;
-  top: 0;
-  left: 40px;
+  margin-top: 200px;
+  margin-left: 100px;
 }
 
 .winter_button{
   position: relative;
-  top: 52px;
-  left: 60px;
+  margin-top: 60px;
+  margin-left: 120px;
 }
 
 .uturikawari_winter{
@@ -199,8 +226,7 @@ body, html, main {
   object-fit:fill;
   object-position: bottom;
   position: relative;
-  bottom: 280px;
-  left: 290px;
+  margin-top: 200px;
 }
 
 .images1{

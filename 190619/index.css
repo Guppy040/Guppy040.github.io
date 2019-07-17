@@ -8,6 +8,7 @@ body{
 .nav {
   width: 100%;
   height: 100px;
+  position: center;
 }
 
 .nav-in {
@@ -76,11 +77,16 @@ body, html, main {
   font-weight: bold;
 }
 
-.title1{
+.NewPhoto_title{
   color:blue;
   font-family: cursive;
   margin-bottom: 80px;
   margin-top: 50px;
+}
+
+.new_contents{
+  margin-bottom : 100px;
+  margin-left : 30px;
 }
 
 .title2{
@@ -89,15 +95,15 @@ body, html, main {
   margin-top: 100px;
 }
 
-.title3{
+.by_season{
   color:blue;
   font-family: cursive;
   margin-top: 150px;
   margin-left: 460px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
-.title4{
+.spring_contents{
   color:deeppink;
   font-family: cursive;
   position: relative;
@@ -105,13 +111,24 @@ body, html, main {
   left: 650px;
 }
 
-.title5{
+.spring_button{
   position: relative;
   top: 210px;
   left: 670px;
 }
 
-.title6{
+.uturikawari_spring{
+  height: 400px;
+  width:500px;
+  margin:auto;
+  object-fit:fill;
+  object-position: bottom;
+  position: relative;
+  bottom: 125px;
+  right: 300px;
+}
+
+.summer_contents{
   color:blue;
   font-family: cursive;
   position: relative;
@@ -119,13 +136,24 @@ body, html, main {
   left: 40px;
 }
 
-.title9{
+.summer_button{
   position: relative;
   top: 132px;
   left: 60px;
 }
 
-.title7{
+.uturikawari_summer{
+  height: 400px;
+  width:500px;
+  margin:auto;
+  object-fit:fill;
+  object-position: bottom;
+  position: relative;
+  bottom: 200px;
+  left: 290px;
+}
+
+.fall_contents{
   color:orangered;
   font-family: cursive;
   position: relative;
@@ -133,13 +161,24 @@ body, html, main {
   left: 650px;
 }
 
-.title8{
+.uturikawari_fall{
+  height: 400px;
+  width:500px;
+  margin:auto;
+  object-fit:fill;
+  object-position: bottom;
+  position: relative;
+  bottom: 250px;
+  right:300px;
+}
+
+.fall_button{
   position: relative;
   top: 80px;
   left: 650px;
 }
 
-.title11{
+.winter_contents{
   color:deepskyblue;
   font-family: cursive;
   position: relative;
@@ -147,10 +186,21 @@ body, html, main {
   left: 40px;
 }
 
-.title10{
+.winter_button{
   position: relative;
   top: 52px;
   left: 60px;
+}
+
+.uturikawari_winter{
+  height: 400px;
+  width:500px;
+  margin:auto;
+  object-fit:fill;
+  object-position: bottom;
+  position: relative;
+  bottom: 280px;
+  left: 290px;
 }
 
 .images1{
@@ -171,42 +221,13 @@ body, html, main {
   width: 300px;
 }
 
-.uturikawari{
-  height: 400px;
-  width:500px;
-  margin:auto;
-  object-fit:fill;
-  object-position: bottom;
-  position: relative;
-  bottom: 125px;
-  right: 300px;
 
-}
 
-.uturikawari2{
-  height: 400px;
-  width:500px;
-  margin:auto;
-  object-fit:fill;
-  object-position: bottom;
-  position: relative;
-  bottom: 200px;
-  left: 290px;
 
-}
 
-.uturikawari3{
-  height: 400px;
-  width:500px;
-  margin:auto;
-  object-fit:fill;
-  object-position: bottom;
-  position: relative;
-  bottom: 250px;
-  right:300px;
-}
 
-.uturikawari4{
+
+.uturikawari_winter{
   height: 400px;
   width:500px;
   margin:auto;

@@ -192,17 +192,6 @@ body, html, main {
   margin-left: 70px;
 }
 
-@media (max-width:768px) {
-  .spring_contents{
-    color:deeppink;
-    font-family: cursive;
-    position: relative;
-    margin-left: 70px;
-    top: 300px;
-    right: 50px;
-    text-align: 0;
-  }
-}
 
 .spring_button{
   position: relative;
@@ -232,18 +221,9 @@ body, html, main {
   position: relative;
 }
 
-@media (max-width:768px) {
-  .uturikawari_spring{
-    height: 400px;
-    width:382px;
-    margin:auto;
-    object-fit:fill;
-    object-position: bottom;
-    position: relative;
-    right: 23px;
-    bottom: 400px;
-  }
-}
+
+
+
 
 
 
@@ -274,6 +254,7 @@ body, html, main {
   position: relative;
   margin-top: 200px;
 }
+
 
 .fall_contents{
   color:orangered;
@@ -338,13 +319,6 @@ body, html, main {
   margin-left: 400px;
 }
 
-@media (max-width:768px) {
-  .button1{
-    width: 300px;
-    position: relative;
-    right:375px;
-  }
-}
 
 
 .button2{

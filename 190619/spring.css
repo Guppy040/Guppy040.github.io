@@ -45,8 +45,8 @@ body, html, main {
 }
 
 @media (max-width:768px) {
-  .cd-fixed-bg2{
-    height: 300px;
+  .cd-fixed-bg{
+    height: 350px;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;

@@ -505,7 +505,7 @@ body, html, main {
 @media (max-width:768px) {
   .rogo{
     position: relative;
-    margin-right: 100px;
+    margin-right: 300px;
   }
 }
 

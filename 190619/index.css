@@ -39,6 +39,16 @@ body, html, main {
   background-position: center center;
 }
 
+@media (max-width:768px) {
+  .cd-fixed-bg{
+    min-height: 60%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+}
+
 .cd-fixed-bg.cd-bg-1 {
   background-image: url("images/gazou2.jpg");
 }
@@ -117,6 +127,12 @@ body, html, main {
 .new_contents{
   margin-bottom : 100px;
   margin-left : 30px;
+}
+
+@media (max-width:768px) {
+  .new_contents_lg{
+   margin : 0 auto 50px auto ;
+  }
 }
 
 .imgWrap {
@@ -311,4 +327,3 @@ body, html, main {
 .footer_background{
   background-image: url("images/haikei.jpg");
 }
-

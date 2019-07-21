@@ -517,8 +517,7 @@ body, html, main {
 
 .rogo2{
   position: relative;
-  bottom: 100px;
-  left: 50px;
+  left: 30px;
   margin-bottom: 100px;
 }
 
@@ -543,8 +542,8 @@ body, html, main {
 .footer3{
   list-style-type:none;
   position: relative;
-  bottom: 350px;
-  left: 20px;
+  bottom: 80px;
+  left: 30px;
   line-height: 200%;
 
 
@@ -553,8 +552,8 @@ body, html, main {
 .footer4{
   list-style-type:none;
   position: relative;
-  bottom: 654px;
-  left:160px ;
+  bottom: 80px;
+  richness:160 ;
   line-height: 200%;
 }
 
@@ -570,7 +569,7 @@ body, html, main {
   background-image: url("images/haikei.jpg");
   position: relative;
   bottom: 100px;
-  height: 300px;
+  height: 650px;
 }
 
 .wrapper{

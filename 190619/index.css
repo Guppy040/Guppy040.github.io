@@ -427,7 +427,7 @@ body, html, main {
   position: relative;
   margin-top: 60px;
   margin-left: 120px;
-  margin-bottom: 100px;
+  margin-bottom: 20px;
 }
 
 @media (max-width:768px) {
@@ -516,9 +516,10 @@ body, html, main {
 }
 
 .rogo2{
-
   position: relative;
-  left: 70px;
+  bottom: 100px;
+  left: 50px;
+  margin-bottom: 100px;
 }
 
 
@@ -567,7 +568,9 @@ body, html, main {
 
 .footer_background2{
   background-image: url("images/haikei.jpg");
-  height: 500px;
+  position: relative;
+  bottom: 100px;
+  height: 300px;
 }
 
 .wrapper{
@@ -575,5 +578,5 @@ body, html, main {
 }
 
 .white{
-  color: #FFFFFF;
+
 }

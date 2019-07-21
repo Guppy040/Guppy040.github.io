@@ -5,11 +5,6 @@ body{
 
 }
 
-.sumaho{
-  background: pink;
-  color: darkblue;
-}
-
 
 .nav {
   width: 100%;
@@ -37,29 +32,18 @@ body, html, main {
 }
 
 .cd-fixed-bg {
-  height: 570px;
+  min-height: 100%;
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
-@media (max-width:768px) {
-  .cd-fixed-bg2{
-    height: 300px;
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center center;
-    position: relative;
-  }
-}
-
 .cd-fixed-bg.cd-bg-1 {
-  background-image: url("images/spring1.jpg");
+  background-image: url("images/spring7.jpg");
 }
 .cd-fixed-bg.cd-bg-2 {
-  background-image: url("images/summer2.jpg");
+  background-image: url("images/gazou2.jpg");
 }
 
 .cd-scrolling-bg {
@@ -67,14 +51,9 @@ body, html, main {
 }
 
 .title{
-  color:white;
+  color:lightpink;
   font-family: cursive;
-  font-size: 800%;
-  position: relative;
-  left: 430px;
-  top:150px;
 }
-
 
 .margin{
   margin-bottom: 1000px;
@@ -89,7 +68,7 @@ body, html, main {
 }
 
 #nav li {
-  width: 155px;
+  width: 165px;
   height: 40px;
   text-align: -webkit-center;
   display: inline-block;
@@ -97,7 +76,8 @@ body, html, main {
 
 #nav li a {
   text-decoration: none;
-  color: deeppink;
+  font-family: cursive;
+  color: #fff;
   font-weight: bold;
   font-size: 25px;
   margin-right: 100px;
@@ -106,7 +86,6 @@ body, html, main {
 .over{
   display: flex;
   justify-content: center;
-  margin-bottom: 100px;
 }
 .over li a {
   color: #fff;
@@ -121,25 +100,13 @@ body, html, main {
   justify-content: center;
 }
 .over1 li a {
-  color: lightskyblue;
+  color: dodgerblue;
   background: #FFFFFF;
 }
 .over1 li a:hover {
   opacity: 0.7;
 }
-/*
-.over2{
-  display: flex;
-  justify-content: center;
-}
-.over2 li a {
-  color: white;
-  background: lightskyblue;
-}
-.over2 li a:hover {
-  opacity: 0.7;
-}
-*/
+
 .NewPhoto_title{
   color:deeppink;
   font-family: cursive;
@@ -151,9 +118,6 @@ body, html, main {
   margin-bottom : 100px;
   margin-left : 30px;
 }
-
-
-
 
 .imgWrap {
   overflow: hidden;	/*拡大時にはみ出た部分を隠す*/
@@ -169,26 +133,12 @@ body, html, main {
   transition-duration: 0.3s;	/*変化に掛かる時間*/
 }
 
-.title2{
-  color: blue;
-  font-family: cursive;
-  margin-top: 100px;
-}
-
-
-
 .rogo{
   margin-bottom: 100px;
   position: relative;
-  top: 40px;
-  left: 200px;
+  top: 50px;
+  left: 100px;
 
-}
-
-.rogo2{
-  position: relative;
-  left: 30px;
-  margin-bottom: 100px;
 }
 
 
@@ -197,7 +147,7 @@ body, html, main {
   list-style-type:none;
   position: relative;
   top: 15px;
-  left: 10px;
+  right: 50px;
   line-height: 200%;
 }
 
@@ -205,25 +155,7 @@ body, html, main {
   list-style-type:none;
   position: relative;
   top: 15px;
-  left: 40px;
-  line-height: 200%;
-}
-
-.footer3{
-  list-style-type:none;
-  position: relative;
-  bottom: 80px;
-  left: 30px;
-  line-height: 200%;
-
-
-}
-
-.footer4{
-  list-style-type:none;
-  position: relative;
-  bottom: 80px;
-  richness:160 ;
+  right: 50px;
   line-height: 200%;
 }
 
@@ -235,21 +167,6 @@ body, html, main {
   background-image: url("images/haikei.jpg");
 }
 
-.footer_background2{
-  background-image: url("images/haikei.jpg");
-  position: relative;
-  bottom: 100px;
-  height: 650px;
-}
-
 .wrapper{
-  overflow: hidden;
-}
-
-.white{
-  color: #FFFFFF;
-}
-
-.blue{
-  color: darkblue;
+  overflow-x: hidden;
 }

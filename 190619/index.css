@@ -502,6 +502,16 @@ body, html, main {
 }
 
 
+@media (max-width:768px) {
+  .rogo{
+    position: relative;
+    margin-right: 100px;
+  }
+}
+
+
+
+
 
 .footer1{
   list-style-type:none;
@@ -525,6 +535,14 @@ body, html, main {
 
 .footer_background{
   background-image: url("images/haikei.jpg");
+}
+
+@media (max-width:768px) {
+  .footer_background{
+    background-image: url("images/haikei.jpg ");
+    height: 500px;
+    width: 500px;
+  }
 }
 
 .wrapper{

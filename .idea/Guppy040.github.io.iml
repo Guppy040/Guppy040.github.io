@@ -14,5 +14,6 @@
     <orderEntry type="library" name="lightbox" level="application" />
     <orderEntry type="library" name="jquery" level="application" />
     <orderEntry type="library" name="pace" level="application" />
+    <orderEntry type="library" name="jquery-3.2.1" level="application" />
   </component>
 </module>

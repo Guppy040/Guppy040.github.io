@@ -71,7 +71,7 @@ body, html, main {
 
 #nav {
   list-style: none;
-  background-color:deepskyblue;
+  background-color:lightskyblue;
   margin-top: 0;
   margin-left: 20px;
   margin-right: 20px;
@@ -86,8 +86,7 @@ body, html, main {
 
 #nav li a {
   text-decoration: none;
-  font-family: cursive;
-  color: #fff;
+  color: darkblue;
   font-weight: bold;
   font-size: 25px;
   margin-right: 100px;
@@ -99,7 +98,7 @@ body, html, main {
 }
 .over li a {
   color: #fff;
-  background: deepskyblue;
+  background: lightskyblue;
 }
 .over li a:hover {
   opacity: 0.7;
@@ -110,7 +109,7 @@ body, html, main {
   justify-content: center;
 }
 .over1 li a {
-  color: dodgerblue;
+  color: lightskyblue;
   background: #FFFFFF;
 }
 .over1 li a:hover {

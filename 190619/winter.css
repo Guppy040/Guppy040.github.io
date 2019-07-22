@@ -1,0 +1,304 @@
+@charset "UTF-8";
+
+body{
+  background-color:#EEFFFF;
+
+}
+
+.sumaho{
+  background: lightskyblue;
+  color: white;
+}
+
+
+.nav {
+  width: 100%;
+  height: 100px;
+  position: center;
+}
+
+.nav-in {
+  width: 100%;
+  height: 100px;
+  position: inherit;
+  top: 0;
+  left: 0;
+  background: #fff;
+}
+
+.position{
+  z-index : 100;
+}
+
+
+body, html, main {
+  /* important */
+  height: 100%;
+}
+
+.cd-fixed-bg {
+  height: 570px;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+@media (max-width:768px) {
+  .cd-fixed-bg{
+    height: 350px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+  }
+}
+
+.cd-fixed-bg.cd-bg-1 {
+  background-image: url("images/fall1.jpg");
+}
+.cd-fixed-bg.cd-bg-2 {
+  background-image: url("images/summer2.jpg");
+}
+
+.cd-scrolling-bg {
+  min-height: 100%;
+}
+
+.title{
+  color:white;
+  font-family: cursive;
+  font-size: 1000%;
+  position: relative;
+  left:380px;
+  top:120px;
+}
+
+
+.margin{
+  margin-bottom: 1000px;
+}
+
+#nav {
+  list-style: none;
+  background-color:lightskyblue;
+  margin-top: 0;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#nav li {
+  width: 155px;
+  height: 40px;
+  text-align: -webkit-center;
+  display: inline-block;
+}
+
+#nav li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  margin-right: 100px;
+}
+
+.over{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.over li a {
+  color: #fff;
+  background: lightskyblue;
+}
+.over li a:hover {
+  opacity: 0.7;
+}
+
+.over1{
+  display: flex;
+  justify-content: center;
+}
+.over1 li a {
+  color: lightskyblue;
+  background: #FFFFFF;
+}
+.over1 li a:hover {
+  opacity: 0.7;
+}
+/*
+.over2{
+  display: flex;
+  justify-content: center;
+}
+.over2 li a {
+  color: white;
+  background: lightskyblue;
+}
+.over2 li a:hover {
+  opacity: 0.7;
+}
+*/
+
+.new_contents{
+  margin-bottom : 100px;
+  margin-left : 30px;
+}
+
+@media (max-width:768px) {
+  .new_contents{
+    margin-bottom : 10px;
+  }
+}
+
+@media (max-width:768px) {
+  .new_contents_lg{
+    margin-bottom: 50px;
+    position: relative;
+    right: 15px;
+
+  }
+}
+
+.imgWrap {
+  overflow: hidden;	/*拡大時にはみ出た部分を隠す*/
+  width: 320px;	/*画像の幅*/
+  height: 180px;	/*画像の高さ*/
+}
+.imgWrap img {
+  display: block;
+  transition-duration: 0.3s;	/*変化に掛かる時間*/
+}
+.imgWrap img:hover {
+  transform: scale(1.1);	/*画像の拡大率*/
+  transition-duration: 0.3s;	/*変化に掛かる時間*/
+}
+
+.title2{
+  color: blue;
+  font-family: cursive;
+  margin-top: 100px;
+}
+
+
+
+.seikei{
+  height: 400px;
+  width:500px;
+  margin:auto;
+  object-fit:fill;
+  object-position: bottom;
+  position: relative;
+  margin-top: 200px;
+}
+
+@media (max-width:768px) {
+  .seikei{
+    height: 150px;
+    width:375px;
+    object-fit:fill;
+    object-position: bottom;
+    position: relative;
+    right: 15px;
+    bottom:70px;
+  }
+}
+
+.images1{
+  margin-bottom: 100px;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+
+}
+
+
+.rogo{
+  margin-bottom: 100px;
+  position: relative;
+  top: 40px;
+  left: 200px;
+
+}
+
+.rogo2{
+  position: relative;
+  left: 30px;
+  margin-bottom: 100px;
+}
+
+
+
+.footer1{
+  list-style-type:none;
+  position: relative;
+  top: 15px;
+  left: 10px;
+  line-height: 200%;
+}
+
+.footer2{
+  list-style-type:none;
+  position: relative;
+  top: 15px;
+  left: 40px;
+  line-height: 200%;
+}
+
+.footer3{
+  list-style-type:none;
+  position: relative;
+  bottom: 80px;
+  left: 30px;
+  line-height: 200%;
+
+
+}
+
+.footer4{
+  list-style-type:none;
+  position: relative;
+  bottom: 80px;
+  richness:160 ;
+  line-height: 200%;
+}
+
+.fantasy{
+  font-family: cursive;
+}
+
+.footer_background{
+  background-image: url("images/haikei.jpg");
+}
+
+.footer_background2{
+  background-image: url("images/haikei.jpg");
+  position: relative;
+  bottom: 100px;
+  height: 500px;
+  margin-top: 200px;
+}
+
+.wrapper{
+  overflow: hidden;
+}
+
+.white{
+  color: #FFFFFF;
+}
+
+.blue{
+  color: darkblue;
+}
+
+@media (max-width:768px) {
+  .spring_contents_lg{
+    margin-top: 100px;
+  }
+}
+
+.sumaho_footer{
+  margin-top:80px;
+}

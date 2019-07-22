@@ -594,3 +594,9 @@ body, html, main {
 .blue{
   color: darkblue;
 }
+
+@media (max-width:768px) {
+  .spring_contents_lg{
+   margin-top: 100px;
+  }
+}

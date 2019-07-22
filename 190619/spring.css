@@ -6,7 +6,7 @@ body{
 }
 
 .sumaho{
-  background: #87CEFA;
+  background: lightpink;
   color: darkblue;
 }
 
@@ -56,7 +56,7 @@ body, html, main {
 }
 
 .cd-fixed-bg.cd-bg-1 {
-  background-image: url("images/gazou2.jpg");
+  background-image: url("images/spring1.jpg");
 }
 .cd-fixed-bg.cd-bg-2 {
   background-image: url("images/summer2.jpg");
@@ -69,6 +69,10 @@ body, html, main {
 .title{
   color:white;
   font-family: cursive;
+  font-size: 1000%;
+  position: relative;
+  left:360px;
+  top:100px;
 }
 
 
@@ -78,7 +82,7 @@ body, html, main {
 
 #nav {
   list-style: none;
-  background-color:lightskyblue;
+  background-color:lightpink;
   margin-top: 0;
   margin-left: 20px;
   margin-right: 20px;
@@ -93,7 +97,7 @@ body, html, main {
 
 #nav li a {
   text-decoration: none;
-  color: darkblue;
+  color: deeppink;
   font-weight: bold;
   font-size: 25px;
   margin-right: 100px;
@@ -106,7 +110,7 @@ body, html, main {
 }
 .over li a {
   color: #fff;
-  background: lightskyblue;
+  background: lightpink;
 }
 .over li a:hover {
   opacity: 0.7;
@@ -117,7 +121,7 @@ body, html, main {
   justify-content: center;
 }
 .over1 li a {
-  color: lightskyblue;
+  color: lightpink;
   background: #FFFFFF;
 }
 .over1 li a:hover {
@@ -138,7 +142,7 @@ body, html, main {
 */
 
 .NewPhoto_title{
-  color:blue;
+  color:hotpink;
   font-family: cursive;
   margin-bottom: 50px;
   margin-top: 100px;

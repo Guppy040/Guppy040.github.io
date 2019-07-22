@@ -6,7 +6,7 @@ body{
 }
 
 .sumaho{
-  background: lightpink;
+  background: lightskyblue;
   color: white;
 }
 
@@ -82,7 +82,7 @@ body, html, main {
 
 #nav {
   list-style: none;
-  background-color:lightpink;
+  background-color:lightskyblue;
   margin-top: 0;
   margin-left: 20px;
   margin-right: 20px;
@@ -97,7 +97,7 @@ body, html, main {
 
 #nav li a {
   text-decoration: none;
-  color: deeppink;
+  color: darkblue;
   font-weight: bold;
   font-size: 25px;
   margin-right: 100px;
@@ -110,7 +110,7 @@ body, html, main {
 }
 .over li a {
   color: #fff;
-  background: lightpink;
+  background: lightskyblue;
 }
 .over li a:hover {
   opacity: 0.7;
@@ -121,7 +121,7 @@ body, html, main {
   justify-content: center;
 }
 .over1 li a {
-  color: lightpink;
+  color: lightskyblue;
   background: #FFFFFF;
 }
 .over1 li a:hover {
@@ -142,7 +142,7 @@ body, html, main {
 */
 
 .NewPhoto_title{
-  color:hotpink;
+  color:darkblue;
   font-family: cursive;
   margin-bottom: 50px;
   margin-top: 100px;

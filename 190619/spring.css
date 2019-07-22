@@ -580,7 +580,8 @@ body, html, main {
   background-image: url("images/haikei.jpg");
   position: relative;
   bottom: 100px;
-  height: 650px;
+  height: 500px;
+  margin-top: 200px;
 }
 
 .wrapper{

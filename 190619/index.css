@@ -61,6 +61,14 @@ body, html, main {
 .cd-fixed-bg.cd-bg-1 {
   background-image: url("images/gazou2.jpg");
 }
+
+@media (max-width:768px) {
+  .cd-fixed-bg.cd-bg-1{
+    background-image: url("images/gazou2.jpg");
+    height: 400px;
+  }
+}
+
 .cd-fixed-bg.cd-bg-2 {
   background-image: url("images/summer2.jpg");
 }

@@ -12,7 +12,7 @@ body{
 }
 
 .title1{
-  margin:0 0 0 0
+  margin:0 0 0 0;
   padding: 20px 10px 15px 20px;
   background-image: url(images/gazou-bg.png);
 background-repeat: repeat-x;
@@ -45,3 +45,8 @@ background-repeat: repeat-x;
   border-bottom: dashed 2px #87CEFA;
 }
 
+.home{
+  position: relative;
+  right: 250px;
+  top:100px;
+}

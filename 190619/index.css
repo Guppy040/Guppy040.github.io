@@ -26,6 +26,9 @@ body{
   background: #fff;
 }
 
+a{
+  color: black;
+}
 .position{
   z-index : 100;
 }

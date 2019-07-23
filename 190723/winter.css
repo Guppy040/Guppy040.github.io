@@ -63,7 +63,7 @@ body, html, main {
   background-image: url("../190723/images/winter1.jpg");
 }
 .cd-fixed-bg.cd-bg-2 {
-  background-image: url("images/summer2.jpg");
+  background-image: url("images/winter1.jpg");
 }
 
 .cd-scrolling-bg {
@@ -75,8 +75,8 @@ body, html, main {
   font-family: cursive;
   font-size: 1000%;
   position: relative;
-  left:380px;
-  top:120px;
+  left:375px;
+  top:130px;
 }
 
 

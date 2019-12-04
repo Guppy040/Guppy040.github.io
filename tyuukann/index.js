@@ -12,6 +12,7 @@ answerHTML = "<ul>";
 let i = 0;
 while (i < tweets.length) {
     answerHTML = answerHTML + "<li>"
+        +tweets[i].image
         + "<b>" + tweets[i].name + "</b>: "
         + tweets[i].message + " "
         + "<i>" + tweets[i].tweetedAt + "</i>"

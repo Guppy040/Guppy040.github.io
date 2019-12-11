@@ -1,8 +1,7 @@
 .img-tarou{
   background-image:url(images/boy.png);             /* 画像のURLを指定       */
   background-repeat:  no-repeat;                /* 画像の繰り返しを指定  */
-  width:50px;                                   /* 横幅のサイズを指定    */
-  height:100px;                                 /* 縦幅のサイズを指定    */
+  width:10%;                                   /* 横幅のサイズを指定    */
   margin-bottom: 10px;
 }
 

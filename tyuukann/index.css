@@ -1,9 +1,27 @@
-.disp-img{
+.img-tarou{
   background-image:url(images/boy.png);             /* 画像のURLを指定       */
   background-repeat:  no-repeat;                /* 画像の繰り返しを指定  */
-  width:auto;                                   /* 横幅のサイズを指定    */
-  height:400pX;                                 /* 縦幅のサイズを指定    */
+  width:50px;                                   /* 横幅のサイズを指定    */
+  height:100px;                                 /* 縦幅のサイズを指定    */
+  margin-bottom: 10px;
 }
+
+.img-zirou{
+  background-image:url(images/girl.png);             /* 画像のURLを指定       */
+  background-repeat:  no-repeat;                /* 画像の繰り返しを指定  */
+  width:50px;                                   /* 横幅のサイズを指定    */
+  height:100px;                                 /* 縦幅のサイズを指定    */
+  margin-bottom: 10px;
+}
+
+.img-saburou{
+  background-image:url(images/robot1.jpg);             /* 画像のURLを指定       */
+  background-repeat:  no-repeat;                /* 画像の繰り返しを指定  */
+  width:50px;                                   /* 横幅のサイズを指定    */
+  height:100px;                                 /* 縦幅のサイズを指定    */
+  margin-bottom: 10px;
+}
+
 
 li {
   list-style: none;

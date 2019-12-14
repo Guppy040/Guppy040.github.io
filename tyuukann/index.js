@@ -16,7 +16,7 @@ while (i < tweets.length) {
         + "<b>" + tweets[i].name + "</b>: "
         + tweets[i].message + " "
         + "<i>" + tweets[i].tweetedAt + "</i>"
-        + "</li>";
+        + "</li>" +"<hr>";
     i++;
 }
 answerHTML = answerHTML + "</ul>";

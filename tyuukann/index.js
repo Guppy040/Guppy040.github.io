@@ -1,24 +1,15 @@
 console.log(tweets);
+console.log(taroutweets);
 
-function showModal() {
-    console.log("showModal() called");
-    // div#modalの中に文字列を表示する
-    let modal = document.querySelector("div#modal");
-    modal.innerHTML = "クリックされたよ！";
-}
 
 
 
 let answer = document.querySelector("#answer");
-
+console.log("Allが表示された")
+let answerHTML;
+answerHTML =
 
 let answerHTML = "";
-
-/**
- * 構築するHTMLのli要素の例
- * <li><b>太郎</b>: 満腹度が回復した <i>2018-11-01 20:05:38</i></li>
- */
-
 
 
 //Allの時

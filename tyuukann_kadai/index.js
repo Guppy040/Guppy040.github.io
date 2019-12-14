@@ -18,7 +18,8 @@ answerHTML = "<ul>";
 let i = 0;
 while (i < tweets.length) {
     answerHTML = answerHTML +
-        tweets[i].image+ "<li>"
+        + "<img src = " + tweets[i].avatar + " alt = " + tweets[i].name + " class = 'icon'>"
+        + "<li>"
         + "<b>" + tweets[i].name + "</b>: "
         + tweets[i].message + " "
         + "<i>" + tweets[i].tweetedAt + "</i>"
@@ -31,21 +32,3 @@ answerHTML = answerHTML + "</ul>";
 
 answer.innerHTML = answerHTML;
 
-function tarou(){
-    console.log("太郎が押された")
-    answerHTML ="<ul>"
-    i=0;
-
-    while(i<taroulength) {
-        answerHTML = answerHTML +
-            tweets[i].image + "<li>"
-            + "<b>" + taroutweets[i].name + "</b>: "
-            + taroutweets[i].message + " "
-            + "<i>" + taroutweets[i].tweetedAt + "</i>"
-            + "</li>" + "<hr>";
-        i++;
-
-    }
-
-
-}

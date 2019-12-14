@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 let answer = document.querySelector("div#answer");
 
 
@@ -36,7 +29,7 @@ function SelectAll() {
 
 
 //太郎
-while (i === 1) {
+while (i < tweets.length) {
     answerHTML = answerHTML
         + "<img src = " + tweets[i].avatar + " alt = " + tweets[i].name + " class = 'image'>"
         + "<li>"

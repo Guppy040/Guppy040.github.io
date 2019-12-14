@@ -1,6 +1,5 @@
-console.log(tweets);
-console.log(taroutweets);
-
+let saburouTweets = tweets.filter(x => x.name === "三郎BOT");
+console.log(saburouTweets);
 
 
 

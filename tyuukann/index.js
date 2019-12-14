@@ -2,6 +2,7 @@ console.log(tweets);
 
 let answer = document.querySelector("#answer");
 
+
 let answerHTML = "";
 
 /**
@@ -19,6 +20,8 @@ while (i < tweets.length) {
         + "</li>" +"<hr>";
     i++;
 }
+
+
 answerHTML = answerHTML + "</ul>";
 
 answer.innerHTML = answerHTML;

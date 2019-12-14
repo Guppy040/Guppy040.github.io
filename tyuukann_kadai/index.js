@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 let answer = document.querySelector("div#answer");
 
 
@@ -7,6 +14,7 @@ let answerHTML;
 answerHTML = "<ul>";
 let i = 0;
 
+//All
 while (i < tweets.length) {
     answerHTML = answerHTML
         + "<img src = " + tweets[i].avatar + " alt = " + tweets[i].name + " class = 'image'>"
@@ -17,7 +25,25 @@ while (i < tweets.length) {
         + "</li>"+"<hr>";
     i++;
 }
-
 answerHTML = answerHTML + "</ul>";
 answer.innerHTML = answerHTML;
+
+//Allが押されたとき
+function SelectAll() {
+    answerHTML="<ul>";
+    answer.innerHTML = answerHTML;
+}
+
+
+//太郎
+while (i === 1) {
+    answerHTML = answerHTML
+        + "<img src = " + tweets[i].avatar + " alt = " + tweets[i].name + " class = 'image'>"
+        + "<li>"
+        + "<b>" + tweets[i].name + "</b> "
+        + tweets[i].message
+        + " <i>" + tweets[i].tweetedAt + "</i>"
+        + "</li>"+"<hr>";
+    i++;
+}
 

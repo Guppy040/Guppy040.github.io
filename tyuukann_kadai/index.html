@@ -1,21 +1,33 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0
-  Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="ja">
 <head>
-  <title></title>
-  <script language="javascript" type="text/javascript">
-      function OnButtonClick() {
-          target = document.getElementById("output");
-          target.innerHTML = "Penguin";
-      }
-  </script>
+  <meta charset="UTF-8">
+  <title>中間課題</title>
+
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+  <link rel="stylesheet" href="index.css">
+
+
 </head>
 <body>
-<input type="button" value="Exec" onclick="OnButtonClick();"/><br />
-<br />
-<div id="output"></div>
-</body>
-</html>
+<button type="button" class="btn btn-primary" onclick="userSelectAll()">All</button>
+<button type="button" class="btn btn-primary" onclick="userSelecttarou()">太郎</button>
+<button type="button" class="btn btn-primary" onclick="userSelectzirou()">次郎</button>
+<button type="button" class="btn btn-primary" onclick="userSelectsaburou()">三郎BOT</button>
+<hr>
+<div id="answer"></div>
 
-<script language="javascript" type="text/javascript">
-</script>
+
+
+
+<script type="text/javascript" src="https://morimorihoge.github.io/teu2019f/tweets.js"></script>
+<script type="text/javascript" src="index.js"></script>

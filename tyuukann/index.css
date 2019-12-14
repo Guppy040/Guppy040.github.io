@@ -25,4 +25,9 @@
 
 li {
   list-style: none;
+  position: relative;
+  left: 90px;
+  bottom:60px;
 }
+
+

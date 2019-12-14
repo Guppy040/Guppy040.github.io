@@ -15,5 +15,6 @@
     <orderEntry type="library" name="jquery" level="application" />
     <orderEntry type="library" name="pace" level="application" />
     <orderEntry type="library" name="jquery-3.2.1" level="application" />
+    <orderEntry type="library" name="tweets" level="application" />
   </component>
 </module>

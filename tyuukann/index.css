@@ -1,3 +1,10 @@
+body{
+  width: 100%;
+  overflow-x: hidden;
+}
+
+
+
 .img-tarou{
   background-image:url(images/tarou.jpg);             /* 画像のURLを指定       */
   background-repeat:  no-repeat;                /* 画像の繰り返しを指定  */

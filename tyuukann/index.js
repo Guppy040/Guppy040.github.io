@@ -5,9 +5,7 @@ console.log(taroutweets);
 
 
 let answer = document.querySelector("#answer");
-console.log("Allが表示された")
-let answerHTML;
-answerHTML =
+
 
 let answerHTML = "";
 

@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d462d58-4ce9-4899-aed0-3c6a34d99976" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/190529/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190529/test1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190619/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/190619/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/haikei.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/haikei.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/rogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/rogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/images/winter9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/winter.css" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/winter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190723/winter.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/winter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191009/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191009/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191009/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191009/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191016/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191016/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191016/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191016/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191016_2/function-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191016_2/function-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191016_2/function-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191016_2/function-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191030/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191030/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030/modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191030_2/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_2/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191030_2/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_2/modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191030_3/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_3/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191030_3/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_3/modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191030_4/check.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_4/check.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191030_4/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_4/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191113/check.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113/check.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191113/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191113_2/check.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113_2/check.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191113_2/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113_2/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191113_3/check_year.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113_3/check_year.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191113_3/check_year.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113_3/check_year.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191120/while.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191120/while.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191120/while.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191120/while.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191120_2/loop.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191120_2/loop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191120_2/loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191120_2/loop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191127/array.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191127/array.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191127/array.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191127/array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191204/array_each.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191204/array_each.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191204/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191204/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191204_1/array_each.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191204_1/array_each.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191204_1/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191204_1/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191211/json_sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191211/json_sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191211/json_sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191211/json_sample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191211_1/zip_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191211_1/zip_search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191211_1/zip_search.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191211_1/zip_search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191218/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191218/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191218/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191218/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ensyu/ensyu001.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/ensyu/ensyu001.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/stylesheets/bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/test3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test4.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/test4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test5.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/test5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/test6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/images/boy.png" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/boy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/images/girl.png" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/girl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/images/robot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/robot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/images/robot.png" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/robot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/images/robot1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/robot1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/images/tarou.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/tarou.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/images/tarou.png" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/tarou.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/images/zirou.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/zirou.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann_kadai/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann_kadai/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann_kadai/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann_kadai/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tyuukann_kadai/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann_kadai/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1dAO9nBwLDTYxm4FNsrH4Ne5Ykb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\m011816065\WebstormProjects\Guppy040.github.io\tyuukann_re" />
+      <recent name="C:\Users\m011816065\WebstormProjects\Guppy040.github.io" />
+      <recent name="C:\Users\m011816065\WebstormProjects\Guppy040.github.io\190619\images" />
+      <recent name="C:\Users\m011816065\WebstormProjects\Guppy040.github.io\190515\images" />
+      <recent name="C:\Users\m011816065\WebstormProjects\Guppy040.github.io\190723\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\m011816065\WebstormProjects\Guppy040.github.io\dust" />
+      <recent name="C:\Users\m011816065\WebstormProjects\Guppy040.github.io\tyuukann\images" />
+      <recent name="C:\Users\m011816065\WebstormProjects\Guppy040.github.io\190515\images" />
+      <recent name="C:\Users\m011816065\WebstormProjects\Guppy040.github.io\190723\images" />
+      <recent name="C:\Users\m011816065\WebstormProjects\Guppy040.github.io\190619\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d462d58-4ce9-4899-aed0-3c6a34d99976" name="Default Changelist" comment="" />
+      <created>1556095866927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556095866927</updated>
+      <workItem from="1556095868245" duration="2712000" />
+      <workItem from="1557301924072" duration="4489000" />
+      <workItem from="1557307443647" duration="353000" />
+      <workItem from="1557825975837" duration="3967000" />
+      <workItem from="1557830486324" duration="21000" />
+      <workItem from="1557830522981" duration="4000" />
+      <workItem from="1557830584275" duration="4170000" />
+      <workItem from="1557834774259" duration="192000" />
+      <workItem from="1557835132915" duration="112000" />
+      <workItem from="1557835409093" duration="31000" />
+      <workItem from="1557893884056" duration="221000" />
+      <workItem from="1557894123006" duration="108000" />
+      <workItem from="1557899749741" duration="996000" />
+      <workItem from="1557900856299" duration="16000" />
+      <workItem from="1557900931781" duration="50000" />
+      <workItem from="1557904769262" duration="735000" />
+      <workItem from="1557906574730" duration="1854000" />
+      <workItem from="1557910462874" duration="1937000" />
+      <workItem from="1558259176363" duration="13149000" />
+      <workItem from="1558275938166" duration="148000" />
+      <workItem from="1558331821139" duration="2562000" />
+      <workItem from="1558334495081" duration="175000" />
+      <workItem from="1558507487584" duration="4348000" />
+      <workItem from="1558767286961" duration="18636000" />
+      <workItem from="1558790184241" duration="98000" />
+      <workItem from="1558846400920" duration="195000" />
+      <workItem from="1559017282792" duration="599000" />
+      <workItem from="1559052284963" duration="925000" />
+      <workItem from="1559053235088" duration="4288000" />
+      <workItem from="1559059678497" duration="310000" />
+      <workItem from="1559103293195" duration="58000" />
+      <workItem from="1559107815323" duration="4832000" />
+      <workItem from="1559114399047" duration="291000" />
+      <workItem from="1559117909897" duration="3438000" />
+      <workItem from="1559189889250" duration="158000" />
+      <workItem from="1559389721938" duration="973000" />
+      <workItem from="1559390710654" duration="4541000" />
+      <workItem from="1559707963893" duration="89000" />
+      <workItem from="1559715069337" duration="5184000" />
+      <workItem from="1559723726292" duration="2250000" />
+      <workItem from="1559974089440" duration="14009000" />
+      <workItem from="1560003883615" duration="56000" />
+      <workItem from="1560325656866" duration="1974000" />
+      <workItem from="1560569854322" duration="5453000" />
+      <workItem from="1560575333897" duration="15585000" />
+      <workItem from="1560591213169" duration="1599000" />
+      <workItem from="1560602618385" duration="59000" />
+      <workItem from="1560609023031" duration="147000" />
+      <workItem from="1560744659515" duration="5064000" />
+      <workItem from="1560755591321" duration="15000" />
+      <workItem from="1560777658277" duration="542000" />
+      <workItem from="1560778311355" duration="282000" />
+      <workItem from="1560821948882" duration="753000" />
+      <workItem from="1560845614415" duration="6000" />
+      <workItem from="1560855927975" duration="4194000" />
+      <workItem from="1560860158329" duration="103000" />
+      <workItem from="1560917456544" duration="364000" />
+      <workItem from="1560930696138" duration="1533000" />
+      <workItem from="1561463479984" duration="33000" />
+      <workItem from="1561538531016" duration="2328000" />
+      <workItem from="1562141487813" duration="4257000" />
+      <workItem from="1562745102872" duration="6020000" />
+      <workItem from="1562823121136" duration="279000" />
+      <workItem from="1562858468422" duration="57000" />
+      <workItem from="1562986535608" duration="47000" />
+      <workItem from="1563091398299" duration="20582000" />
+      <workItem from="1563124853602" duration="906000" />
+      <workItem from="1563125785134" duration="546000" />
+      <workItem from="1563255080149" duration="874000" />
+      <workItem from="1563259713424" duration="3000" />
+      <workItem from="1563262622670" duration="48000" />
+      <workItem from="1563263921108" duration="2830000" />
+      <workItem from="1563339799698" duration="215000" />
+      <workItem from="1563346000346" duration="11555000" />
+      <workItem from="1563367177717" duration="787000" />
+      <workItem from="1563422998822" duration="1159000" />
+      <workItem from="1563625277106" duration="2494000" />
+      <workItem from="1563689941716" duration="7000" />
+      <workItem from="1563692030946" duration="11881000" />
+      <workItem from="1563704627598" duration="3000" />
+      <workItem from="1563704809523" duration="202000" />
+      <workItem from="1563705391864" duration="11697000" />
+      <workItem from="1563720019751" duration="9864000" />
+      <workItem from="1563730117675" duration="8550000" />
+      <workItem from="1563738820449" duration="1371000" />
+      <workItem from="1563740230555" duration="44000" />
+      <workItem from="1563740332635" duration="2037000" />
+      <workItem from="1563742442821" duration="4796000" />
+      <workItem from="1563798783922" duration="1759000" />
+      <workItem from="1563800648968" duration="1625000" />
+      <workItem from="1563802413835" duration="2354000" />
+      <workItem from="1563805026951" duration="907000" />
+      <workItem from="1563806005532" duration="5721000" />
+      <workItem from="1563819585165" duration="552000" />
+      <workItem from="1563856226239" duration="2327000" />
+      <workItem from="1563860112371" duration="2227000" />
+      <workItem from="1563866172430" duration="749000" />
+      <workItem from="1563875502904" duration="7000" />
+      <workItem from="1563876636862" duration="4436000" />
+      <workItem from="1563891866927" duration="108000" />
+      <workItem from="1563892031464" duration="58000" />
+      <workItem from="1563892332043" duration="101000" />
+      <workItem from="1563892858772" duration="414000" />
+      <workItem from="1563894319566" duration="4000" />
+      <workItem from="1563897620547" duration="67000" />
+      <workItem from="1563897750886" duration="761000" />
+      <workItem from="1563898751219" duration="574000" />
+      <workItem from="1563899572287" duration="1150000" />
+      <workItem from="1563901039717" duration="599000" />
+      <workItem from="1563954939763" duration="349000" />
+      <workItem from="1565009664043" duration="326000" />
+      <workItem from="1567609490333" duration="225000" />
+      <workItem from="1570003548750" duration="2215000" />
+      <workItem from="1570609611095" duration="2238000" />
+      <workItem from="1571213332136" duration="4077000" />
+      <workItem from="1572423484682" duration="3705000" />
+      <workItem from="1572711978692" duration="3000" />
+      <workItem from="1573180077482" duration="462000" />
+      <workItem from="1573632630028" duration="3693000" />
+      <workItem from="1574236688576" duration="5005000" />
+      <workItem from="1574397876554" duration="92000" />
+      <workItem from="1574746224310" duration="24000" />
+      <workItem from="1574841013724" duration="4681000" />
+      <workItem from="1574991671573" duration="260000" />
+      <workItem from="1575446278365" duration="4016000" />
+      <workItem from="1575450728229" duration="323000" />
+      <workItem from="1575952024419" duration="68000" />
+      <workItem from="1575954243052" duration="100000" />
+      <workItem from="1575984585382" duration="104000" />
+      <workItem from="1576039318420" duration="7727000" />
+      <workItem from="1576089882364" duration="1050000" />
+      <workItem from="1576324790717" duration="21611000" />
+      <workItem from="1576507125045" duration="3225000" />
+      <workItem from="1576578126137" duration="283000" />
+      <workItem from="1576655895582" duration="3066000" />
+      <workItem from="1576810569358" duration="38000" />
+      <workItem from="1576813289524" duration="12000" />
+      <workItem from="1581966067755" duration="45000" />
+      <workItem from="1584690521846" duration="275000" />
+      <workItem from="1584803254500" duration="388000" />
+      <workItem from="1586425748886" duration="365000" />
+      <workItem from="1591864285111" duration="386000" />
+    </task>
+    <task id="LOCAL-00212" summary="bootstrap作成">
+      <created>1563898824283</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1563898824284</updated>
+    </task>
+    <task id="LOCAL-00213" summary="bootstrap作成">
+      <created>1563899070130</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1563899070131</updated>
+    </task>
+    <task id="LOCAL-00214" summary="bootstrap作成">
+      <created>1563900534499</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1563900534500</updated>
+    </task>
+    <task id="LOCAL-00215" summary="bootstrap作成">
+      <created>1563900707267</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1563900707267</updated>
+    </task>
+    <task id="LOCAL-00216" summary="bootstrap作成">
+      <created>1570609678112</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1570609678113</updated>
+    </task>
+    <task id="LOCAL-00217" summary="bootstrap作成">
+      <created>1570609749863</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1570609749863</updated>
+    </task>
+    <task id="LOCAL-00218" summary="bootstrap作成">
+      <created>1570609853866</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1570609853866</updated>
+    </task>
+    <task id="LOCAL-00219" summary="bootstrap作成">
+      <created>1570610793984</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1570610793984</updated>
+    </task>
+    <task id="LOCAL-00220" summary="bootstrap作成">
+      <created>1570610992079</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1570610992079</updated>
+    </task>
+    <task id="LOCAL-00221" summary="bootstrap作成">
+      <created>1570611131876</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1570611131877</updated>
+    </task>
+    <task id="LOCAL-00222" summary="bootstrap作成">
+      <created>1570611308638</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1570611308638</updated>
+    </task>
+    <task id="LOCAL-00223" summary="bootstrap作成">
+      <created>1571213504317</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1571213504317</updated>
+    </task>
+    <task id="LOCAL-00224" summary="bootstrap作成">
+      <created>1571213908663</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1571213908663</updated>
+    </task>
+    <task id="LOCAL-00225" summary="bootstrap作成">
+      <created>1571214636915</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1571214636915</updated>
+    </task>
+    <task id="LOCAL-00226" summary="bootstrap作成">
+      <created>1571216112908</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1571216112908</updated>
+    </task>
+    <task id="LOCAL-00227" summary="bootstrap作成">
+      <created>1571216353587</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1571216353588</updated>
+    </task>
+    <task id="LOCAL-00228" summary="bootstrap作成">
+      <created>1571217329349</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1571217329349</updated>
+    </task>
+    <task id="LOCAL-00229" summary="bootstrap作成">
+      <created>1572425896170</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1572425896172</updated>
+    </task>
+    <task id="LOCAL-00230" summary="bootstrap作成">
+      <created>1572427186881</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1572427186881</updated>
+    </task>
+    <task id="LOCAL-00231" summary="bootstrap作成">
+      <created>1573636193859</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1573636193860</updated>
+    </task>
+    <task id="LOCAL-00232" summary="bootstrap作成">
+      <created>1574240398169</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1574240398171</updated>
+    </task>
+    <task id="LOCAL-00233" summary="bootstrap作成">
+      <created>1574241677083</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1574241677084</updated>
+    </task>
+    <task id="LOCAL-00234" summary="bootstrap作成">
+      <created>1574845639610</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1574845639610</updated>
+    </task>
+    <task id="LOCAL-00235" summary="bootstrap作成">
+      <created>1575449804397</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1575449804397</updated>
+    </task>
+    <task id="LOCAL-00236" summary="bootstrap作成">
+      <created>1575450589767</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1575450589767</updated>
+    </task>
+    <task id="LOCAL-00237" summary="bootstrap作成">
+      <created>1575451034178</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1575451034182</updated>
+    </task>
+    <task id="LOCAL-00238" summary="bootstrap作成">
+      <created>1575984663641</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1575984663641</updated>
+    </task>
+    <task id="LOCAL-00239" summary="bootstrap作成">
+      <created>1576040820022</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1576040820022</updated>
+    </task>
+    <task id="LOCAL-00240" summary="bootstrap作成">
+      <created>1576042626482</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1576042626482</updated>
+    </task>
+    <task id="LOCAL-00241" summary="bootstrap作成">
+      <created>1576050867523</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1576050867523</updated>
+    </task>
+    <task id="LOCAL-00242" summary="bootstrap作成">
+      <created>1576054989952</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1576054989952</updated>
+    </task>
+    <task id="LOCAL-00243" summary="bootstrap作成">
+      <created>1576329276563</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1576329276563</updated>
+    </task>
+    <task id="LOCAL-00244" summary="bootstrap作成">
+      <created>1576331445544</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1576331445545</updated>
+    </task>
+    <task id="LOCAL-00245" summary="bootstrap作成">
+      <created>1576332524113</created>
+      <option name="number" value="00245" />
+      <option name="presentableId" value="LOCAL-00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1576332524113</updated>
+    </task>
+    <task id="LOCAL-00246" summary="bootstrap作成">
+      <created>1576332845389</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1576332845389</updated>
+    </task>
+    <task id="LOCAL-00247" summary="bootstrap作成">
+      <created>1576333659808</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1576333659808</updated>
+    </task>
+    <task id="LOCAL-00248" summary="bootstrap作成">
+      <created>1576333983818</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1576333983818</updated>
+    </task>
+    <task id="LOCAL-00249" summary="bootstrap作成">
+      <created>1576335297991</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1576335297991</updated>
+    </task>
+    <task id="LOCAL-00250" summary="bootstrap作成">
+      <created>1576335511329</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1576335511329</updated>
+    </task>
+    <task id="LOCAL-00251" summary="bootstrap作成">
+      <created>1576336477275</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1576336477275</updated>
+    </task>
+    <task id="LOCAL-00252" summary="bootstrap作成">
+      <created>1576342125346</created>
+      <option name="number" value="00252" />
+      <option name="presentableId" value="LOCAL-00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1576342125346</updated>
+    </task>
+    <task id="LOCAL-00253" summary="bootstrap作成">
+      <created>1576343842826</created>
+      <option name="number" value="00253" />
+      <option name="presentableId" value="LOCAL-00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1576343842831</updated>
+    </task>
+    <task id="LOCAL-00254" summary="bootstrap作成">
+      <created>1576347468784</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1576347468784</updated>
+    </task>
+    <task id="LOCAL-00255" summary="bootstrap作成">
+      <created>1576349244563</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1576349244563</updated>
+    </task>
+    <task id="LOCAL-00256" summary="bootstrap作成">
+      <created>1576350370360</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1576350370360</updated>
+    </task>
+    <task id="LOCAL-00257" summary="bootstrap作成">
+      <created>1576350673668</created>
+      <option name="number" value="00257" />
+      <option name="presentableId" value="LOCAL-00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1576350673668</updated>
+    </task>
+    <task id="LOCAL-00258" summary="bootstrap作成">
+      <created>1576351875115</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1576351875115</updated>
+    </task>
+    <task id="LOCAL-00259" summary="bootstrap作成">
+      <created>1576559022091</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1576559022091</updated>
+    </task>
+    <task id="LOCAL-00260" summary="bootstrap作成">
+      <created>1576657084719</created>
+      <option name="number" value="00260" />
+      <option name="presentableId" value="LOCAL-00260" />
+      <option name="project" value="LOCAL" />
+      <updated>1576657084719</updated>
+    </task>
+    <option name="localTasksCounter" value="261" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test.html作成" />
+    <MESSAGE value="bootstrap作成" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap作成" />
+  </component>
+</project>

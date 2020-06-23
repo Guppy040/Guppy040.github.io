@@ -1,86 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6d462d58-4ce9-4899-aed0-3c6a34d99976" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/190529/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190529/test1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190619/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/190619/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/haikei.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/haikei.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/rogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/rogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/images/winter9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/images/winter9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/winter.css" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/winter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190723/winter.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/190723/winter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191009/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191009/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191009/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191009/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191016/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191016/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191016/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191016/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191016_2/function-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191016_2/function-test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191016_2/function-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191016_2/function-test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191030/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030/modal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191030/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030/modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191030_2/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_2/modal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191030_2/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_2/modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191030_3/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_3/modal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191030_3/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_3/modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191030_4/check.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_4/check.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191030_4/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191030_4/modal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191113/check.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113/check.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191113/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113/modal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191113_2/check.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113_2/check.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191113_2/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113_2/modal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191113_3/check_year.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113_3/check_year.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191113_3/check_year.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191113_3/check_year.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191120/while.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191120/while.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191120/while.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191120/while.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191120_2/loop.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191120_2/loop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191120_2/loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191120_2/loop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191127/array.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191127/array.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191127/array.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191127/array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191204/array_each.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191204/array_each.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191204/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191204/modal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191204_1/array_each.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191204_1/array_each.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191204_1/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191204_1/modal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191211/json_sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191211/json_sample.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191211/json_sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191211/json_sample.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191211_1/zip_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191211_1/zip_search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191211_1/zip_search.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191211_1/zip_search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191218/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191218/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191218/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/191218/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ensyu/ensyu001.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/ensyu/ensyu001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/stylesheets/bootstrap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/test3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test4.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/test4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test5.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/test5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test6.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/test6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/images/boy.png" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/boy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/images/girl.png" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/girl.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/images/robot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/robot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/images/robot.png" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/robot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/images/robot1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/robot1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/images/tarou.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/tarou.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/images/tarou.png" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/tarou.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/images/zirou.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/images/zirou.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann_kadai/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann_kadai/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann_kadai/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann_kadai/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tyuukann_kadai/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dust/tyuukann_kadai/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuzira/image/about-photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuzira/image/footer-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuzira/image/keyvisual.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuzira/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuzira/image/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuzira/image/menu-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuzira/image/menu-photo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuzira/image/menu-photo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuzira/image/menu-photo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kuzira/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -287,21 +237,8 @@
       <workItem from="1584690521846" duration="275000" />
       <workItem from="1584803254500" duration="388000" />
       <workItem from="1586425748886" duration="365000" />
-      <workItem from="1591864285111" duration="386000" />
-    </task>
-    <task id="LOCAL-00212" summary="bootstrap作成">
-      <created>1563898824283</created>
-      <option name="number" value="00212" />
-      <option name="presentableId" value="LOCAL-00212" />
-      <option name="project" value="LOCAL" />
-      <updated>1563898824284</updated>
-    </task>
-    <task id="LOCAL-00213" summary="bootstrap作成">
-      <created>1563899070130</created>
-      <option name="number" value="00213" />
-      <option name="presentableId" value="LOCAL-00213" />
-      <option name="project" value="LOCAL" />
-      <updated>1563899070131</updated>
+      <workItem from="1591864285111" duration="566000" />
+      <workItem from="1592923492844" duration="1421000" />
     </task>
     <task id="LOCAL-00214" summary="bootstrap作成">
       <created>1563900534499</created>
@@ -632,7 +569,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576657084719</updated>
     </task>
-    <option name="localTasksCounter" value="261" />
+    <task id="LOCAL-00261" summary="bootstrap作成">
+      <created>1591864773088</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1591864773088</updated>
+    </task>
+    <task id="LOCAL-00262" summary="bootstrap作成">
+      <created>1591864798214</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1591864798214</updated>
+    </task>
+    <option name="localTasksCounter" value="263" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -677,5 +628,15 @@
     <MESSAGE value="test.html作成" />
     <MESSAGE value="bootstrap作成" />
     <option name="LAST_COMMIT_MESSAGE" value="bootstrap作成" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="204" y="0" key="CommitChangelistDialog2" timestamp="1591864797529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="204" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591864797529" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591864775227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591864775227" />
   </component>
 </project>

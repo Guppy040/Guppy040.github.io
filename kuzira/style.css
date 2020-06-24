@@ -31,19 +31,23 @@ p{
 }
 
 a:link{
-    color:#d25833
+    color:#d25833;
+    text-decoration: none;
 }
 
 a:visited{
     color:#d25833;
+    text-decoration: none;
 }
 
 a:hover{
     color: #e3937a;
+    text-decoration: none;
 }
 
 a:active{
     color: #ff6a3b;
+    text-decoration: none;
 }
 
 .logo{
@@ -63,4 +67,24 @@ a:active{
     padding:20px 10px 15px 20px;
     background-image: url(image/menu-bg.png);
     background-repeat: repeat-x;
+}
+
+.nav a:link{
+    color:#3c454d;
+    text-decoration: none;
+}
+
+.nav a:visited{
+    color:#3c454d;
+    text-decoration: none;
+}
+
+.nav a:hover{
+    color: #7b8dac;
+    text-decoration: none;
+}
+
+.nav a:active{
+    color: #5a9bc0;
+    text-decoration: none;
 }

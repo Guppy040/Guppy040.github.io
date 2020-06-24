@@ -4,6 +4,16 @@ html{
     font-family:sans-serif;
 }
 
+html *{
+    box-sizing: border-box;;
+}
+
 body{
     background-color: #eeece9;
+}
+
+h2{
+    color:#3f5170;
+    font-size:22px;
+    border-bottom:3px dotted #3f5170;
 }

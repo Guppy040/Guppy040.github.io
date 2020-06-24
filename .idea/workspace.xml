@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d462d58-4ce9-4899-aed0-3c6a34d99976" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kuzira/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/kuzira/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kuzira/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/kuzira/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,14 +230,8 @@
       <workItem from="1586425748886" duration="365000" />
       <workItem from="1591864285111" duration="566000" />
       <workItem from="1592923492844" duration="5505000" />
-      <workItem from="1592978157686" duration="5232000" />
-    </task>
-    <task id="LOCAL-00227" summary="bootstrap作成">
-      <created>1571216353587</created>
-      <option name="number" value="00227" />
-      <option name="presentableId" value="LOCAL-00227" />
-      <option name="project" value="LOCAL" />
-      <updated>1571216353588</updated>
+      <workItem from="1592978157686" duration="5342000" />
+      <workItem from="1592988943654" duration="439000" />
     </task>
     <task id="LOCAL-00228" summary="bootstrap作成">
       <created>1571217329349</created>
@@ -575,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592982576540</updated>
     </task>
-    <option name="localTasksCounter" value="276" />
+    <task id="LOCAL-00276" summary="bootstrap作成">
+      <created>1592983501607</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1592983501607</updated>
+    </task>
+    <option name="localTasksCounter" value="277" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -622,17 +623,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="bootstrap作成" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="204" y="0" key="CommitChangelistDialog2" timestamp="1592982575872">
+    <state x="204" y="0" key="CommitChangelistDialog2" timestamp="1592983500966">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="204" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592982575872" />
+    <state x="204" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592983500966" />
     <state x="618" y="326" key="VCS.ChangelistChooser" timestamp="1592981750529">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="326" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1592981750529" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592982577837">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592983503088">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592982577837" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592983503088" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592989310233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592989310233" />
   </component>
 </project>

@@ -231,14 +231,7 @@
       <workItem from="1591864285111" duration="566000" />
       <workItem from="1592923492844" duration="5505000" />
       <workItem from="1592978157686" duration="5342000" />
-      <workItem from="1592988943654" duration="6466000" />
-    </task>
-    <task id="LOCAL-00234" summary="bootstrap作成">
-      <created>1574845639610</created>
-      <option name="number" value="00234" />
-      <option name="presentableId" value="LOCAL-00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1574845639610</updated>
+      <workItem from="1592988943654" duration="7357000" />
     </task>
     <task id="LOCAL-00235" summary="bootstrap作成">
       <created>1575449804397</created>
@@ -576,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593011165004</updated>
     </task>
-    <option name="localTasksCounter" value="283" />
+    <task id="LOCAL-00283" summary="bootstrap作成">
+      <created>1593012161670</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1593012161670</updated>
+    </task>
+    <option name="localTasksCounter" value="284" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -623,18 +623,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="bootstrap作成" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="204" y="0" key="CommitChangelistDialog2" timestamp="1593011164328">
+    <state x="204" y="0" key="CommitChangelistDialog2" timestamp="1593012160972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="204" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593011164328" />
+    <state x="204" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593012160972" />
+    <state x="516" y="114" key="RollbackChangesDialog" timestamp="1593013045924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593013045924" />
     <state x="618" y="326" key="VCS.ChangelistChooser" timestamp="1592981750529">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="326" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1592981750529" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593011166831">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593012164069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593011166831" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593012164069" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1593004924964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

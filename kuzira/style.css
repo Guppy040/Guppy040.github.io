@@ -130,3 +130,20 @@ a:active{
     border: 1px solid #bec2c7;
     text-align:left;
 }
+
+.info th{
+    background-color:  #dde2ea;
+    width:90px;
+    color: #3f5170;
+    vertical-align: top;
+}
+
+.menu-item{
+    display:flex;
+    border-bottom: 1px dashed #bec2c7;
+    padding: 20px 8px;
+}
+
+.menu-photo{
+    margin-right: 16px;
+}

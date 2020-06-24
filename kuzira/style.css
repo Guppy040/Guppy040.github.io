@@ -25,3 +25,23 @@ h2{
     padding-bottom:5px;
     padding-left: 5px;
 }
+
+p{
+    line-height:1.6;
+}
+
+a:link{
+    color:#d25833
+}
+
+a:visited{
+    color:#d25833;
+}
+
+a:hover{
+    color: #e3937a;
+}
+
+a:active{
+    color: #ff6a3b;
+}

@@ -146,4 +146,13 @@ a:active{
 
 .menu-photo{
     margin-right: 16px;
+    flex:1 1 auto;
+}
+
+.menu-text{
+    flex:0 0 336px;
+}
+
+.map{
+    text-align: center;
 }

@@ -232,21 +232,7 @@
       <workItem from="1592978157686" duration="5342000" />
       <workItem from="1592988943654" duration="13004000" />
       <workItem from="1593152953340" duration="2000" />
-      <workItem from="1593158929789" duration="1052000" />
-    </task>
-    <task id="LOCAL-00243" summary="bootstrap作成">
-      <created>1576329276563</created>
-      <option name="number" value="00243" />
-      <option name="presentableId" value="LOCAL-00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1576329276563</updated>
-    </task>
-    <task id="LOCAL-00244" summary="bootstrap作成">
-      <created>1576331445544</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1576331445545</updated>
+      <workItem from="1593158929789" duration="1492000" />
     </task>
     <task id="LOCAL-00245" summary="bootstrap作成">
       <created>1576332524113</created>
@@ -577,7 +563,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593159631491</updated>
     </task>
-    <option name="localTasksCounter" value="292" />
+    <task id="LOCAL-00292" summary="bootstrap作成">
+      <created>1593159988231</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1593159988231</updated>
+    </task>
+    <task id="LOCAL-00293" summary="bootstrap作成">
+      <created>1593160173244</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1593160173244</updated>
+    </task>
+    <option name="localTasksCounter" value="294" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -624,10 +624,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="bootstrap作成" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="204" y="0" key="CommitChangelistDialog2" timestamp="1593159630574">
+    <state x="204" y="0" key="CommitChangelistDialog2" timestamp="1593160172593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="204" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593159630574" />
+    <state x="204" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593160172593" />
     <state x="516" y="114" key="RollbackChangesDialog" timestamp="1593013045924">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -636,10 +636,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="326" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1592981750529" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593159632721">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593160178406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593159632721" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593160178406" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1593004924964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

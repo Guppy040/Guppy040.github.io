@@ -179,3 +179,16 @@ img{
         display:block;
     }
 }
+
+.menu-item{
+    display:block;
+}
+
+.menu-photo{
+    margin-right:0;
+    width:100%;
+}
+
+.menu-text{
+    width:100%;
+}

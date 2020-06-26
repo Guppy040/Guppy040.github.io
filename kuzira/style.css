@@ -172,4 +172,10 @@ img{
     .logo img{
         width:200px;
     }
+    .nav{
+        background-color: #dfddda;
+    }
+    .nav li{
+        display:block;
+    }
 }

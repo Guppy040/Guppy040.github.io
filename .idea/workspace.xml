@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d462d58-4ce9-4899-aed0-3c6a34d99976" name="Default Changelist" comment="" />
+    <list default="true" id="6d462d58-4ce9-4899-aed0-3c6a34d99976" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/190515/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/190515/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,21 +247,7 @@
       <workItem from="1608713202263" duration="385000" />
       <workItem from="1608733835157" duration="614000" />
       <workItem from="1609569677058" duration="1044000" />
-      <workItem from="1609728356365" duration="2748000" />
-    </task>
-    <task id="LOCAL-00253" summary="bootstrap作成">
-      <created>1576343842826</created>
-      <option name="number" value="00253" />
-      <option name="presentableId" value="LOCAL-00253" />
-      <option name="project" value="LOCAL" />
-      <updated>1576343842831</updated>
-    </task>
-    <task id="LOCAL-00254" summary="bootstrap作成">
-      <created>1576347468784</created>
-      <option name="number" value="00254" />
-      <option name="presentableId" value="LOCAL-00254" />
-      <option name="project" value="LOCAL" />
-      <updated>1576347468784</updated>
+      <workItem from="1609728356365" duration="3305000" />
     </task>
     <task id="LOCAL-00255" summary="bootstrap作成">
       <created>1576349244563</created>
@@ -590,7 +578,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609744030680</updated>
     </task>
-    <option name="localTasksCounter" value="302" />
+    <task id="LOCAL-00302" summary="bootstrap作成">
+      <created>1609744198824</created>
+      <option name="number" value="00302" />
+      <option name="presentableId" value="LOCAL-00302" />
+      <option name="project" value="LOCAL" />
+      <updated>1609744198824</updated>
+    </task>
+    <task id="LOCAL-00303" summary="bootstrap作成">
+      <created>1609744255847</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1609744255847</updated>
+    </task>
+    <option name="localTasksCounter" value="304" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -637,17 +639,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="bootstrap作成" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="0" key="CommitChangelistDialog2" timestamp="1609744029968">
+    <state x="379" y="0" key="CommitChangelistDialog2" timestamp="1609744255185">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="379" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609744029968" />
+    <state x="379" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609744255185" />
     <state x="516" y="114" key="RollbackChangesDialog" timestamp="1609743422645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609743422645" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609744032952">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609744257935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609744032952" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609744257935" />
   </component>
 </project>
